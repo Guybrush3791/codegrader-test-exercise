@@ -1,1 +1,1 @@
-# codegrader-test-exercise
+Using `https://jsonplaceholder.typicode.com/todos`, fetch the full list of todo items. Filter to find only items where `completed` is `false`, then display the titles of the first 5 incomplete items on the page.
